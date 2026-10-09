@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/bastyn-lockup-dark.png">
+    <img alt="BASTYN" src="images/bastyn-lockup-light.png" width="360">
+  </picture>
+</p>
+
 # BASTYN Labs
 
 BASTYN Labs is where the BASTYN cybersecurity organisation builds in the open and experiments in private.
